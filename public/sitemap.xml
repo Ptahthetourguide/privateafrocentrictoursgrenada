@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://privateafrocentrictoursgrenada.com/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://privateafrocentrictoursgrenada.com/license/</loc>
+    <loc>http://localhost:1313/license/</loc>
   </url><url>
-    <loc>https://privateafrocentrictoursgrenada.com/history/</loc>
+    <loc>http://localhost:1313/history/</loc>
   </url><url>
-    <loc>https://privateafrocentrictoursgrenada.com/services/</loc>
+    <loc>http://localhost:1313/services/</loc>
   </url><url>
-    <loc>https://privateafrocentrictoursgrenada.com/tours/</loc>
+    <loc>http://localhost:1313/tours/</loc>
   </url>
 </urlset>
