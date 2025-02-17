@@ -1,0 +1,11 @@
+[build]
+    base = "privateafrocentrictoursgrenada"
+    publish = public
+    command = hugo --gc --minify
+
+
+[build.environment]
+    HUGO_VERSION = "0.139.4"
+
+[context.production]
+    command = "hugo --gc --minify"
