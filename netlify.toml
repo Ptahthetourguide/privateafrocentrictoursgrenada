@@ -1,26 +1,11 @@
 [build]
-    publish = "privateafrocentrictoursgrenada/public"
+    base = "privateafrocentrictoursgrenada"
+    publish = public
+    command = hugo --gc --minify
+
 
 [build.environment]
-    HUGO_VERSION = "0.139.4+extended"
-    HUGO_THEME = "repo"
+    HUGO_VERSION = "0.139.4"
 
 [context.production]
-    command = "cd privateafrocentrictoursgrenada && hugo --gc --themesDir ../.. -b ${URL}"
-    [context.production.environment]
-        HUGO_ENV = "production"
-
-[context.branch-deploy]
-    command = "cd privateafrocentrictoursgrenada && hugo --gc --themesDir ../.. -b ${DEPLOY_PRIME_URL}"
-
-[context.deploy-preview]
-    command = "cd privateafrocentrictoursgrenada && hugo --gc --themesDir ../.. -b ${DEPLOY_PRIME_URL}"
-
-[[plugins]]
-    package = "netlify-plugin-hugo-cache-resources"
-
-        [plugins.inputs]
-            # If it should show more verbose logs (optional, default = true)
-            debug = true
-            # Relative path to source directory in case you use Hugo's "--s" option
-            srcdir = "privateafrocentrictoursgrenada"
+    command = "hugo --gc --minify"
