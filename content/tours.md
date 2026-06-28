@@ -1,22 +1,26 @@
 ---
 title: "Tours"
 ---
+---
+# Jab Jab
 
-**Freedom to experience Grenada's rich African Heritage**
-
-#### Uhuru
+## Living Archeology
 
 Embark on a journey through Grenada's African-centered history and culture. Delve into the island's profound African legacy, tracing its roots back to the era before European colonization. Explore historical landmarks and encounter well-preserved artifacts that offer a window into Grenada's storied past. Expand your knowledge and deepen your appreciation for the island's captivating history and culture.
 
-![AfroCentric Tours Grenada Jab Jab](../images/Grenada-Jab-Jab02.jpg.jpeg)
+![AfroCentric Tours Grenada Jab Jab](../images/fire-jab.jpg)
 
-Our ancestors have left evidence of their presence locally and regionally for us to discover. Research has brought so much to the surface and exposed some left in plain sight.
+*Traditional Jab Jab Grenada Carnival*
+
+Our ancestors left evidence of their presence locally and regionally for us to discover. Research has brought so much to the surface and exposed some left in plain sight.
 
 Follow in the footsteps of our forebears, from their arrival to their lives on the plantations and beyond.
 
-##### Cocoa Tea 
+---
 
-**From the Plantation to the rich Flavours of the Cocoa plant**
+# Cocoa Tea
+
+## The rich Flavours of the Cocoa plant
 
 Renowned for producing premium cocoa, Grenada is celebrated among chocolate connoisseurs. The Olmecs, an ancient African civilization predating the Mayans, Aztecs, and Columbus's arrival in the Americas, were pioneers in crafting beverages from cocoa beans for medicinal and ceremonial use.
 
@@ -24,13 +28,17 @@ The Mayans concocted "xocolatl," a robust, frothy drink meaning 'bitter water,' 
 
 ![Grenada Tours Cocoa draws Jouvay](../images/cocoa-draws-jouvay.jpg)
 
+*Cocoa drying in Traditional Cocoa Draws*
+
 Indulge in the exquisite flavours of cocoa by sampling cocoa tea or Grenada chocolate. Enhance your knowledge of cocoa by learning about the intricacies involved in its growth, harvesting, and processing. Gain insights into the various products made from cocoa.
 
 Join us on this enlightening journey to experience the flavours of cocoa and learn about its production and products.
 
-##### Rasta Livity
+---
 
-**An African way of Life indigenous to the Caribbean**
+# Rasta Livity
+
+## Indigenous to the Caribbean
 
 Rastafari as a cultural expression has maintained their African Heritage in their way of life called Rasta Livity. Rastafari emerged in Jamaica before the 1930s as an antidote to the after effects of colonization and slavery.
 
@@ -38,35 +46,65 @@ Rasta express their oneness with humanity and everything that exist by seeking t
 
 ![Private AfroCentric Tours Grenada](../images/rasta-village.jpg)
 
+*Mount Zion*
+
 Rasta Livity has found resonance globally as individuals seeking alternative Lifestyles discover the way of life practiced by Rastas. The Livity encompasses spirituality, self-reliance, diet, music, language as disciplines practiced by Rastas.
 
-##### Village Life
+---
 
-**The Ubuntu spirit resides in Grenadian village culture**
+# Village Life
+
+## Where the Ubuntu Spirit resides
 
 The essence of a group or nation is their culture a blend of traditions and practices handed down by their ancestors. As Africans domiciled of an ex slave Plantation island we have preserved our heritage in our villages. The rural regions of Grenada, often referred to as the country is where Grenadian culture is celebrated and maintained as a way of life.
 
 Fishing and Farming plays a major role in daily Village life as a domestic food supply. Fresh caught fish, organically grown fruit, vegetables and some of the finest herbs also spice are the main ingredients in most of the local dishes. Grenada economy is rooted in Agriculture which made the island famous for its Spice export.
 
-![Grenada Tours Nadica Concord waterfall](../images/nadica-concord.jpg)
+![Grenada Tours Nadica Concord waterfall](../images/nadica-concord.jpg) 
+
+*Nadica Herbs and Spice Shop Concord Waterfalls*
 
 The essence of Grenadian culture and tradition thrives within its rural villages. These locales offer an ideal retreat for visitors seeking an authentic experience of Grenadian hospitality amidst tranquil surroundings. This distinctive ambiance is exclusive to the Spice Island of the Caribbean.
 
-#### Famous Grenadian
+---
 
-**Explore their Heritage**
+# Grenada African Spirituality
 
-Despite its small size and population, Grenada has fostered numerous internationally recognized figures. While some may not be household names, their remarkable achievements have garnered global acclaim.
+## Epigenetics does not Forget
 
-Many of these individuals hail from the rural regions of Grenada, often referred to as the country. Exploring their backgrounds and tracing their footsteps in their native environment offers insights into the influences that shaped and motivated them. Among the notable figures are Maurice Bishop, Slinger Francisco, and Mrs. Little, the mother of Malcolm X, to name just a few.
+All that the African could bring on the middle passage voyage was their spirituality so they hid it in their hearts, minds and souls. They preserved this spirituality through oral transmission because Africans were subjected to forced illiteracy and Christianity. The Africans used song, riddles, folklore, storytelling to pass on their knowledge, culture, tradition spirituality and diet from generation to generation. Anansi the Akan folklore that thought intellect over brute force survived to today through oral transmission.
+
+African Spirituality as a form of worship was illegal and severely punished throughout chattel slavery and the drum was banned until emancipation. Indentured Yoruba workers from south west Africa brought their spiritual practices as free Africans to Grenada and the western hemisphere. They merged this spirituality with the free African slaves African spiritual retention and Christianity to create a unique form of African spirituality know today as Shouter or Spiritual Baptise.
+
+They used Christian and African Symbolism to camouflage the worship of their divine spirits as the worship of Christian deities. 
+
+![Grenada Spiritual Baptise](../images/spiritual-baptise-liberation-day.jpg)
+
+*Spiritual Baptists Ceremony*
+
+The veneration of the divine spirits of the Yoruba is found today throughout  the Caribbean islands, New Orleans, Cuba and Brazil as Spiritual Baptise, Santeria, Voodoo, Candomble. The Haitian revolution started after Dutty Bowkman called on the Orishas and the ancestors for their spiritual courage and guidance in the fight to win freedom for Haiti and the enslaved Africans in the western Hemisphere. 
+
+---
+
+# Famous Grenadian
+
+## Explore their Heritage
+
+Despite its minute size and population, Grenada has fostered numerous internationally recognized figures. While some may not be household names, their remarkable achievements have garnered global acclaim.
+
+Many of these individuals hail from the rural regions of Grenada, often referred to as the country. Exploring their backgrounds and tracing their footsteps in their native environment offers insights into the influences that shaped and motivated them. Among the notable figures are Maurice Bishop, Slinger Francisco,  Henri Christophe, and Mrs. Little, the mother of Malcolm X, to name just a few.
 
 ![Private AfroCentric Tours Grenada](../images/maurice-fidel.jpg)
 
-Explore the backgrounds and heritage of some of the most recognized individuals with Grenadian roots. Walk in their footsteps and experience what influenced and shaped them to becoming exceptional individuals.
+*Maurice Bishop and Fidel Castro*
 
-##### Diamond Lifestyle
+Explore the backgrounds and heritage of some of the most recognized individuals with Grenadian roots. Walk in their footsteps and experience what influenced and shaped them to becoming exceptional individuals. If there is a Grenadian that you would like to learn more about your enquiry is welcome. 
 
-**A Luxurious Experience of a Tropical paradise**
+---
+
+# Diamond Lifestyle
+
+## Luxury Experience of Paradise
 
 Grenada, a gem of an island, boasts a vibrant cultural tapestry and a melting pot of communities. This multicultural blend shapes the island's everyday life, offering a glimpse into the lifestyles of its affluent residents. Explore exclusive enclaves, from gated communities to secluded villas and mansions.
 
@@ -76,6 +114,10 @@ As a favored haven for yachting enthusiasts, Grenada's strategic location and ex
 
 ![Waitress Belmont Estate Grenada](../images/waitress1.jpg)
 
+*Grenadian hospitality: Service with a Smile*
+
 Select from a variety of dining options and settings, from beachfront to rain forest retreats. As our guest, you'll receive expert recommendations to fulfill your culinary desires. Personalized restaurant or catering services are available upon request.
 
-For further details or to include additional activities in your Grenada tour, please reach out to me.
+*Reach out to include specific activities in your Private Afrocentric tour.*
+
+---

@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ $headless := .Site.GetPage "/homepage" }}
 {{ $sections := $headless.Resources.ByType "page" }}
-{{ $sections := cond .Site.BuildDrafts $sections (where $sections "Draft" "==" false) }}
+{{ $sections := cond hugo.IsServer $sections (where $sections "Draft" "==" false) }}
 {{ $content := where (where $sections "Params.external" "==" nil) "Params.detailed_page_homepage_content" "ne" false }}
 
 <!-- Welcome screen that scrolls out of view -->

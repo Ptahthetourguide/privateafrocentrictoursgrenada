@@ -10,7 +10,7 @@ header_logo: "images/chef-hat.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Private AfroCentric Tours Grenada"
-header_subheadline: "Telling <b>Our</b> Story"
+header_subheadline: "Telling <b>Our</b> <b>Story</b>"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry

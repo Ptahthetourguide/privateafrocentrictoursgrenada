@@ -1,0 +1,42 @@
+{{ define "main" }}
+  <main class="content page-template page-{{ .Slug }}">
+    <article class="post page">
+      <header class="post-header">
+        <a id="blog-logo" href="{{ "" | relLangURL }}">
+          <i class="fa fa-chevron-left" aria-hidden="true"></i> {{ .Site.Title }}
+        </a>
+      </header>
+
+      <!-- Section title -->
+      <h1 class="post-title">{{ .Title }}</h1>
+
+      <!-- Intro content from _index.md -->
+      <section class="post-content">
+        {{ .Content }}
+      </section>
+    </article>
+
+    <!-- Blog post listing -->
+    <section class="post-list">
+      <h2>Latest Posts</h2>
+      <ul>
+        {{ range (.Paginate .Pages).Pages }}
+          <li class="post-item">
+            <a href="{{ .RelPermalink }}" class="post-link">
+              <h3>{{ .Title }}</h3>
+            </a>
+            {{ with .Params.featured_image }}
+              <img src="{{ . }}" alt="{{ $.Title }}" class="post-thumb">
+            {{ end }}
+            <p>{{ .Summary }}</p>
+          </li>
+        {{ end }}
+      </ul>
+
+      <!-- Pagination controls -->
+      {{ template "_internal/pagination.html" . }}
+    </section>
+  </main>
+{{ end }}
+
+

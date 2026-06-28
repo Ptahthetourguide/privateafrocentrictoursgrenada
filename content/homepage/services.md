@@ -17,16 +17,18 @@ header_menu: true
 
 ---
 
-## Personalized your Excursion
+# Personalized your Excursion
 
 Plan your Afrocentric Grenada experience with our guide to top destinations. Discover stunning views and enjoy exciting activities around the island.
 
 ![Private Afrocentric Tours Grenada](/images/sandals.jpg)
 
+*Grenada Cultural Entertainment in the Tourism Industry*
+
 Discover Grenada's essence, flavors, and scents at your own pace. Enjoy a stress-free experience with your group in a calm, easygoing setting.
 
 ---
 
-Want to learn more about my services?
+Want to learn more about my services or check out my Blog?
 
-**Explore my [Services](services) and [Tours](tours) for inspiration.**
+*Explore my* [Services](services) *and* [Tours](tours) *for inspiration or read my* [Blog](blog)

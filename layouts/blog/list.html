@@ -1,0 +1,29 @@
+{{ define "main" }}
+  <main class="content page-template">
+    <article class="post page">
+      <header class="post-header">
+        <h1 class="post-title">{{ .Title }}</h1>
+      </header>
+
+      <section class="post-content">
+        {{ .Content }}
+      </section>
+
+      <section class="posts">
+        {{ range .Paginator.Pages }}
+          <article class="post">
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <p>{{ .Summary }}</p>
+          </article>
+        {{ end }}
+      </section>
+
+      {{ template "_internal/pagination.html" . }}
+    </article>
+  </main>
+{{ end }}
+
+
+
+
+

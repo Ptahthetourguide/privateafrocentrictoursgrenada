@@ -2,16 +2,11 @@
 title: "Our History"
 weight: 5
 header_menu_title: "Our Story"
-navigation_menu_title: "Our History"
+navigation_menu_title: "Our Story"
 header_menu: true
-detailed_page_path: /history/
-detailed_page_homepage_content: false
+detailed_page_path: /history
+detailed_page_homepage_content: 
 ---
 
-The file **legal-brief.md** creates an internal link on the cover page without the leading icon.
+**Grenada Indigenous People:** Natives from what is today called South America were exploring the southern islands of the island chain centuries before the arrival of Europeans. The Kalinagos inhabited Camahogne when Columbus sited and named the island La Conception in 1498 on his third visit to the new world. [Read More](/history/)
 
-If the parameter `detailed_page_homepage_content` is set to false neither this section nor the navigation menu entry will be shown (but the link on the cover page will be).
-
-If `detailed_page_homepage_content` is set to true or is missing at all, the link, navigation menu and the content will be rendered. In that case this section might contain less or just summarized information compared to the single page referenced by the parameter `detailed_page_path`.
-
-Want to see more about the details? See [dedicated page](legal) with more details or hit the button 'Legal' on the cover page.

@@ -1,7 +1,7 @@
-baseURL = "https://privateafrocentrictoursgrenada.netlify.app"
+baseURL = "http://192.168.0.22"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
-disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+disableKinds = ["taxonomy", "term", "RSS", "robotsTXT"]
 
 defaultContentLanguage = "en"
 
@@ -79,3 +79,13 @@ title = "PAT Grenada"
     #     value = ""
     #     url = ""
     #     icon = ""
+
+    [[menu.main]]
+name = "Home"
+url = "/"
+weight = 10
+
+[[menu.main]]
+name = "Blog"
+url = "/blog/"
+weight = 20

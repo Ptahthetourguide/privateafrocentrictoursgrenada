@@ -5,13 +5,7 @@ header_menu_title: "Tours"
 navigation_menu_title: "Tour Ideas"
 header_menu: true
 detailed_page_path: /tours/
-detailed_page_homepage_content: false
+detailed_page_homepage_content: true
 ---
 
-The file **legal-brief.md** creates an internal link on the cover page without the leading icon.
-
-If the parameter `detailed_page_homepage_content` is set to false neither this section nor the navigation menu entry will be shown (but the link on the cover page will be).
-
-If `detailed_page_homepage_content` is set to true or is missing at all, the link, navigation menu and the content will be rendered. In that case this section might contain less or just summarized information compared to the single page referenced by the parameter `detailed_page_path`.
-
-Want to see more about the details? See [dedicated page](legal) with more details or hit the button 'Legal' on the cover page.
+Embark on a journey through Grenada's African-centered history and culture. Delve into the island's profound African legacy, tracing its roots back to the era before European colonization. Explore historical landmarks and encounter well-preserved artifacts that offer a window into Grenada's storied past. Expand your knowledge and deepen your appreciation for the island's captivating history and culture. [Read More](/tours/)

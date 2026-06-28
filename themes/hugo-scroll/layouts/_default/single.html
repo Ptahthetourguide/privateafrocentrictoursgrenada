@@ -1,13 +1,62 @@
 {{ define "main" }}
+
   <main class="content page-template page-{{ .Slug }}">
     <article class="post page">
+
+      <!-- NAVIGATION (same logic as homepage) -->
       <header class="post-header">
-        <a id="blog-logo" href="{{ "" | relLangURL }}"><i class="fa fa-chevron-left" aria-hidden="true"></i> {{ .Site.Title }}</a>
+
+        <nav class="site-menu">
+
+          {{ $headless := .Site.GetPage "/homepage" }}
+          {{ $sections := $headless.Resources.ByType "page" }}
+          {{ $sections := cond hugo.IsServer $sections (where $sections "Draft" "==" false) }}
+          {{ $content := where (where $sections "Params.external" "==" nil) "Params.detailed_page_homepage_content" "ne" false }}
+
+          {{ range where $content "Params.header_menu" "eq" true }}
+
+            {{ $button_title := .Title }}
+            {{ with .Params.header_menu_title }}
+              {{ $button_title = . }}
+            {{ end }}
+
+            {{ if isset .Params "external" }}
+              <a class="btn site-menu" href="{{ .Params.external | absURL }}">
+                {{ $button_title }}
+              </a>
+
+            {{ else if isset .Params "detailed_page_path" }}
+              <a class="btn site-menu" href="{{ .Params.detailed_page_path | relURL }}">
+                {{ $button_title }}
+              </a>
+
+            {{ else }}
+              {{ $anchor := anchorize .Params.navigation_menu_title }}
+              <a class="btn site-menu" href="{{ printf "/#%s" $anchor | relURL }}">
+                {{ $button_title }}
+              </a>
+            {{ end }}
+
+          {{ end }}
+
+          <!-- Blog link -->
+          <a class="btn site-menu" href="{{ "/blog/" | relURL }}">
+            Blog
+          </a>
+
+        </nav>
+
       </header>
+
+      <!-- PAGE TITLE -->
       <h1 class="post-title">{{ .Title }}</h1>
+
+      <!-- CONTENT -->
       <section class="post-content">
         {{ .Content }}
       </section>
+
     </article>
   </main>
+
 {{ end }}
