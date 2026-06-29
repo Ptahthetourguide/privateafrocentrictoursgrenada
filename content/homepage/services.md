@@ -8,6 +8,8 @@ header_menu: true
 
 **Design and Management.**
 
+---
+
 - Itinerary Planning.
 - Tour Coordination
 - Guide Services.
@@ -25,6 +27,8 @@ Plan your Afrocentric Grenada experience with our guide to top destinations. Dis
 
 *Grenada Cultural Entertainment in the Tourism Industry*
 
+---
+
 Discover Grenada's essence, flavors, and scents at your own pace. Enjoy a stress-free experience with your group in a calm, easygoing setting.
 
 ---
@@ -32,3 +36,5 @@ Discover Grenada's essence, flavors, and scents at your own pace. Enjoy a stress
 Want to learn more about my services or check out my Blog?
 
 *Explore my* [Services](services) *and* [Tours](tours) *for inspiration or read my* [Blog](blog)
+
+---
