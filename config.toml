@@ -1,4 +1,4 @@
-baseURL = "http://192.168.0.22"
+baseURL = "http://privateafrocentrictoursgrenada.netlify.app"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["taxonomy", "term", "RSS", "robotsTXT"]
