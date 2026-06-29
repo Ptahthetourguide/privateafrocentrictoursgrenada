@@ -12,7 +12,9 @@ In the spirit of Ubuntu we welcome you to share the best of Grenadian hospitalit
 
 *Ptah the Tourguide with Kwabena Armen PanAfrican and Environmental Activist*
 
-**An authentic Grenada Experience**
+---
+
+# Authentic Grenada Experience
 
 - Private and Personalized
 - 100% customizable to your interest.

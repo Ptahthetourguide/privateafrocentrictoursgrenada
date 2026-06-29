@@ -19,4 +19,6 @@ You can count on each excursion to provide a personalized and unique cultural ex
 
 ---
 
-Through **Private Afrocentric Tours Grenada**, I aim to inspire visitors and create unforgettable memories by focusing on the island's African heritage and sharing my knowledge of and passion for the island."
+*Through **Private Afrocentric Tours Grenada**, I aim to inspire visitors and create unforgettable memories by focusing on the island's African heritage and sharing my knowledge of and passion for the island."*
+
+---
