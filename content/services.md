@@ -50,6 +50,6 @@ If you're looking for a place to have lunch, I can help you find the perfect spo
 
 Consider using part of the afternoons to visit a crater lake, waterfall, or beach? Plan a fun experience with relaxation, entertainment, and education focused on your interest. Just reach out with your enquiries, visit duration, and group size, and I will be happy to assist you in the creation, planning and manage the day that you desire.
 
-Let PAT Grenada help ensure that you feel like family and not a visitor.
+*Let PAT Grenada help ensure that you feel like family and not a visitor.*
 
 ---
